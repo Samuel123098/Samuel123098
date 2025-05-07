@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**Samuel123098/Samuel123098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+✨ _Im SAM!!!!_ ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on A more data compact version of the QR Code
+- 🌱 I’m currently learning C# and Python
+- 👯 I’m looking to collaborate on 
+- 🤔 I’m looking for help with Networking and Decompliation
+- 💬 Ask me about Dogs <3
+- 📫 How to reach me: you just gotta find me irl
+- 😄 Pronouns: False, im against nouns.
+- ⚡ Fun fact: you can fit 3 whole racoons up you.
+
